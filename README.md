@@ -12,3 +12,8 @@ An app to show people how rich I am.
 An app to show people how poor I am.
 
 <img src="Screenshots/IAmPoor.jpg" width="100">
+
+### [MiCard](./MiCard/)
+A personal business card.
+
+<img src="Screenshots/MiCard.jpg" width="100">
