@@ -27,3 +27,8 @@ An app that throws the dices.
 An app that has the answer to any question.
 
 <img src="Screenshots/Magic8Ball.jpg" width="100">
+
+### [Xylophone](./Xylophone//)
+An app where you can play xylophone.
+
+<img src="Screenshots/Xylophone.jpg" width="100">
