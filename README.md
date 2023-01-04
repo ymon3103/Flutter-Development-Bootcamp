@@ -32,3 +32,8 @@ An app that has the answer to any question.
 An app where you can play xylophone.
 
 <img src="Screenshots/Xylophone.jpg" width="100">
+
+### [Quizzler](./Quizzler/)
+An app where your knowledge is getting tested.
+
+<img src="Screenshots/Quizzler.jpg" width="100">
