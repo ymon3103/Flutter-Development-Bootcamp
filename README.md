@@ -17,3 +17,8 @@ An app to show people how poor I am.
 A personal business card.
 
 <img src="Screenshots/MiCard.jpg" width="100">
+
+### [Dicee](./Dicee/)
+An app that throws the dices.
+
+<img src="Screenshots/Dicee.jpg" width="100">
