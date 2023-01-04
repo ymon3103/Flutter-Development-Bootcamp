@@ -7,3 +7,8 @@ Course followed on [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-da
 An app to show people how rich I am.
 
 <img src="Screenshots/IAmRich.jpg" width="100">
+
+### [I Am Poor](./IAmPoor)
+An app to show people how poor I am.
+
+<img src="Screenshots/IAmPoor.jpg" width="100">
