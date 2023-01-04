@@ -22,3 +22,8 @@ A personal business card.
 An app that throws the dices.
 
 <img src="Screenshots/Dicee.jpg" width="100">
+
+### [Magic 8 Ball](./Magic8Ball/)
+An app that has the answer to any question.
+
+<img src="Screenshots/Magic8Ball.jpg" width="100">
