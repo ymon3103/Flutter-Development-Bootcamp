@@ -42,3 +42,8 @@ An app where your knowledge is getting tested.
 An adventure game.
 
 <img src="Screenshots/Destini.jpg" width="100">
+
+### [BMI Calculator](./BMICalculator/)
+A BMI Calculator
+
+<img src="Screenshots/BMICalculator.jpg" width="100">
