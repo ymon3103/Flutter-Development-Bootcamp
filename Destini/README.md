@@ -1,0 +1,3 @@
+# Destini
+
+An adventure game.

@@ -37,3 +37,8 @@ An app where you can play xylophone.
 An app where your knowledge is getting tested.
 
 <img src="Screenshots/Quizzler.jpg" width="100">
+
+### [Destini](./Destini/)
+An adventure game.
+
+<img src="Screenshots/Destini.jpg" width="100">
