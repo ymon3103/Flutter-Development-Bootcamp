@@ -44,6 +44,11 @@ An adventure game.
 <img src="Screenshots/Destini.jpg" width="100">
 
 ### [BMI Calculator](./BMICalculator/)
-A BMI Calculator
+A BMI Calculator.
 
 <img src="Screenshots/BMICalculator.jpg" width="100">
+
+### [Clima](./Clima/)
+A Weather app.
+
+<img src="Screenshots/Clima.jpg" width="100">
