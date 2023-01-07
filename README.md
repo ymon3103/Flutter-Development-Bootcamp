@@ -52,3 +52,8 @@ A BMI Calculator.
 A Weather app.
 
 <img src="Screenshots/Clima.jpg" width="100">
+
+### [Coin Ticker](./CoinTicker/)
+An app that tells you the value of Bitcoin, Ether and Litecoin.
+
+<img src="Screenshots/CoinTicker.jpg" width="100">
