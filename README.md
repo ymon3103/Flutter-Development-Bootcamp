@@ -1,7 +1,7 @@
 # The Complete Development Bootcamp
 **By [The App Brewery](https://www.appbrewery.co/).**
 
-Course followed on [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart). These are the Android applications that I coded while following the course.
+Course followed on [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart). These are the Android applications that I coded while following the course. See the [official course resources](https://github.com/londonappbrewery/Flutter-Course-Resources).
 
 ### [I Am Rich](./IAmRich/)
 An app to show people how rich I am.
