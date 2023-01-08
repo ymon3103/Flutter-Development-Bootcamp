@@ -57,3 +57,8 @@ A Weather app.
 An app that tells you the value of Bitcoin, Ether and Litecoin.
 
 <img src="Screenshots/CoinTicker.jpg" width="100">
+
+### [Flash Chat](./FlashChat/)
+A chat application with Firebase.
+
+<img src="Screenshots/FlashChat.jpg" width="100">
